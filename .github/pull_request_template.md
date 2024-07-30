@@ -38,4 +38,4 @@ Please delete options that are not relevant.
 - [ ] New and existing unit tests pass locally with my changes
 - [ ] Any dependent changes have been merged and published in downstream modules
 - [ ] If adding new functionality, I have discussed my implementation with the community using the linked GitHub issue
-- [ ] I have signed and submitted the [ICLA](../ICLA.md) and if needed, the [CCLA](../CCLA.md). See [Contributing](../CONTRIBUTING.md) for details. 
+- [ ] I have signed and submitted the [ICLA](../../ICLA.md) and if needed, the [CCLA](../../CCLA.md). See [Contributing](../../CONTRIBUTING.md) for details. 
